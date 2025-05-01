@@ -1,6 +1,6 @@
 Telefónica Scientific Research
 
-![Telefonica Scientific Research Logo](./SC-Research-BG-BLUE.jpg)
+![Telefonica Scientific Research Logo](./TSR-logo.png)
 
 Links of interest: 
 
