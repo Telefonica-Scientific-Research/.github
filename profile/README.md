@@ -28,8 +28,7 @@ Telefónica Scientific Research (TSR) is an industrial, multidisciplinary resear
 
 # What you’ll find in this repository
 - Open‑source implementations, research code and reproducible notebooks.
-- Internal prototypes and integration examples.
-- Publications, patents and pointers to standards contributions.
+- Prototypes, proof of concepts and integration examples.
 
 ## A note on impact
 Since 2007 our group has grown from a handful of researchers to a compact team that balances curiosity and utility: producing publications, patents and funded projects while ensuring research outcomes can be validated, reused and, when ready, deployed.
